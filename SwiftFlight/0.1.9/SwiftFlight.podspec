@@ -25,7 +25,7 @@ s.source = { :git => "https://github.com/likeablegeek/SwiftFlight.git",
              :tag => "#{s.version}" }
 
 # Dependencies
-s.framework = "UIKit"
+# s.framework = "UIKit"
 s.dependency 'SwiftSocket', '~> 2.0.2'
 
 # Source
