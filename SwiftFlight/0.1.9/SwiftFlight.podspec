@@ -26,7 +26,7 @@ s.source = { :git => "https://github.com/likeablegeek/SwiftFlight.git",
 
 # Dependencies
 # s.framework = "UIKit"
-s.dependency 'SwiftSocket', '~> 2.0.2'
+s.dependency 'libSwiftSocket', '~> 1.2.5'
 
 # Source
 s.source_files = "SwiftFlight/**/*.{swift}"
